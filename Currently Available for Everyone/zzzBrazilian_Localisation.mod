@@ -8,4 +8,4 @@ tags=
  
 }
 picture="Logo.jpg"
-supported_version="1.8"
+supported_version="1.9"
