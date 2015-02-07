@@ -1,0 +1,5 @@
+l_brazilian:
+ vef_economy.40000.t: "Boa Colheita"
+ vef_economy.40000.d: "O ano $YEAR$ foi considerado um bom ano para $COUNTRY$. Com as boas colheitas, as receitas foram maiores do que nunca."
+ vef_economy.40000.opta: "Coloque no tesouro"
+ vef_economy.40000.optb: "Invista o dinheiro"

@@ -1,0 +1,11 @@
+l_brazilian:
+ vef_ai_engine.10000.t: "IA Engine"
+ vef_ai_engine.10000.d: "IA Engine - evento interno. Se você ver isso, por favor reporte o bug."
+ vef_ai_engine.10000.opta: "OK"
+ vef_ai_engine.10001.t: "IA Engine"
+ vef_ai_engine.10001.d: "IA Engine - evento interno. Se você ver isso, por favor reporte o bug."
+ vef_ai_engine.10001.opta: "OK"
+ vef_ai_engine.10001.optb: "OK"
+ vef_ai_building.10000.t: "IA Building"
+ vef_ai_building.10000.d: "IA Building - evento interno. Se você ver isso, por favor reporte o bug."
+ vef_ai_building.10000.opta: "OK"

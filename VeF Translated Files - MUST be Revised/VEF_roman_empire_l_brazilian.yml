@@ -1,0 +1,6 @@
+l_brazilian:
+ roman_empire.10000.t: "A Sede do Poder"
+ roman_empire.10000.d: "Nós controlamos as duas grandes cidades do Império Antigo. Aonde deverá ser nossa capital?"
+ roman_empire.10000.opta: "Roma!"
+ roman_empire.10000.optb: "Constantinopla!"
+ roman_empire.10000.optc: "Nós temos outras ideias..."

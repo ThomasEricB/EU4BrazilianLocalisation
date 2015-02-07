@@ -1,0 +1,6 @@
+l_english:
+ TESTX: "teste"
+ COMBATEND_UNIT_GAINED: "Ganhou $NUM|Y$."
+ TO_OUR_OVERLORD: "Para nosso Suserano: $VALUE|2R$"
+ NO_OVERLORD: "Nós não temos um Suserano"
+ NO_OVERLORD_T: "Não somos uma nação colonial."

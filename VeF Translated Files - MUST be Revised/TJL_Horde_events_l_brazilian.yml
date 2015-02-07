@@ -1,0 +1,11 @@
+l_brazilian:
+ horde_reformed_events_tjl.1t: "$PROVINCENAME$ foi invadida!"
+ horde_reformed_events_tjl.1d: "Nosso povo de $PROVINCENAME$ foram feitos escravos durante o saque de uma horda nomade!"
+ horde_reformed_events_tjl.1a: "Vamos rezar para as suas almas..."
+ horde_reformed_events_tjl.2t: "Incursão de escravos por [From.GetName]"
+ horde_reformed_events_tjl.2d: "Nós assautamos [From.GetName], e ganhamos vários homens e mulheres para troca."
+ horde_reformed_events_tjl.2a: "Exelente!"
+ money_support_hordes: "Monetary Support"
+ desc_money_support_hordes: "Aristocrats provide monetary support against the hordes."
+ troop_support_hordes: "Troop Support"
+ desc_troop_support_hordes: "Aristocrats provide troops to protect against the hordes."

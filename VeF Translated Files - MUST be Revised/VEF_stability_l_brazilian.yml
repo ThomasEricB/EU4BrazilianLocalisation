@@ -1,0 +1,10 @@
+l_brazilian:
+ vef_stability.1.t: "Estabilidade Nacional"
+ vef_stability.1.d: "Isso é um evento escondido. Se você ver isso, por favor reporte o bug §Rvef_stability.1§!"
+ vef_stability.1.opta: "OK"
+ vef_stability.2.t: "Aumento da Estabilidade"
+ vef_stability.2.d: "Nossa administração solida levou a um aumento da estabilidade nacional."
+ vef_stability.2.opta: "Boas Noticias!"
+ vef_stability.3.t: "Diminuição da Estabilidade"
+ vef_stability.3.d: "Nossa péssima administração e sérios problemas de estabilidade em nossas provincias levaram a uma diminuição da estabilidade nacional."
+ vef_stability.3.opta: "Pessimas Noticias!"
