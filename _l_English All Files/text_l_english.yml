@@ -3978,7 +3978,6 @@
  MAPMODE_BUILDINGS: "Mapa dos Edificios"
  MAPMODE_MISSIONARY: "Mapa dos Missionarios"
  PW_STAB_COST: "Custo de Estabilidade"
- PW_STAB_COST: "Stability Cost"
  MISSIONARY_IN_PROGRESS: "Missionary is active."
  MISSIONARY_MAP_TOOLTIP: "§Y$CHANCE$%§W chance convert to §Y$RELIGION$§W."
  BMP_MAX: "The maximum possible of $NUM$ buildings known have been built here."
