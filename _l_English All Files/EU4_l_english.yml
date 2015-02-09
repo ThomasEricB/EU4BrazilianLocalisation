@@ -1167,7 +1167,6 @@
  SORT_BY_DIP_COST: "Classificar pelo custo de poder diplomatico."
  SORT_BY_COST: "Classificar pelo custo."
  SORT_BY_NCARDINALS: "Sort by number of active cardinals"
- SORT_BY_LOYALTY: "Sort by country"
  SORT_BY_PAPAL_INFLUENCE: "Sort by papal influence"
  SORT_BY_CHANCE: "Sort by chance to get curia control"
  SORT_BY_INVESTED: "Sort by amount of invested papal influence"
