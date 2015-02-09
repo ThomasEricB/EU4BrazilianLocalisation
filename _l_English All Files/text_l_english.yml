@@ -7005,7 +7005,6 @@
  positive_stability: "Positive Stability"
  negative_stability: "Negative Stability"
  MS_BAD_VERSION: "Wrong version. Please download the latest patch."
- maneuver: "Maneuver"
  maneuver: "Manobra"
  siege: "Cerco"
  fire: "Fogo"
