@@ -3,7 +3,6 @@ l_english:
  DIPLO_TRADE_VASSALS: "Número de países que transferem o poder de troca para $WHO$: "
  DIPLO_ACTIVE_RELATION: "Tratado já está ativo: "
  DIPLO_FIGHTING_OTHER_WAR_TOGETHER: "Lutando juntos em outra guerra: "
- DIPLO_MULTI_WARS: "Would be called into multiple wars: "
  DIPLO_FIGHTING_OTHER_WAR: "Lutando em outra guerra: "
  DIPLO_POSITIVE: "Positivo: $VAL|G$"
  DIPLO_NEGATIVE: "Negativo: $VAL|R$"
