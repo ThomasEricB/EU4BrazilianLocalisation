@@ -34,7 +34,7 @@
  TRADE_POWER_CAPITAL: "Capital na área: $VAL$"
  TRADE_POWER_TAKE: "Os mercadores de §Y$COUNTRY$§W coletaram §Y$VAL$§W¤ a partir deste nó comercial."
  TRADE_POWER_PIRATES_TAKE: "§Y$COUNTRY$§W coleta §Y$VAL$§W¤ deste nó comercial."
- TRADE_POWER_TAKE_STATE: "Out of this they manage to create an income of §Y$VALOTHER$§W¤ to the state."
+ TRADE_POWER_TAKE_STATE: "Fora isso, eles conseguem criar uma renda de §Y$VALOTHER$§W¤ para o estado."
  TRADE_POWER_PUSH: "§Y$COUNTRY$§W esta usando seu Poder Comercial para transportar §Y$VAL$§W¤ para frente."
  TRADE_VALUE_RETAINED: "§Y$VAL$§W% do valor comercial mantido."
  TRADE_BASE_VALUE: "Base: §Y$VAL$§W"
