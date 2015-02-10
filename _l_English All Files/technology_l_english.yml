@@ -17,7 +17,7 @@
  mil_tech_short: "Tec. Mil"
  adm_tech_short: "Tec. Adm"
  dip_tech_short: "Tec. Dip"
- COLONIAL_GROWTH_INCREASE: "Settler Growth Increased by §G+$VALUE$§W.\n"
+ COLONIAL_GROWTH_INCREASE: "Crescimento de Colono aumentou por §G+$VALUE$§W.\n"
  NAVAL_MAINTENANCE_INCREASE: "Manutenção da Marinha Aumentada em §R+$VALUE$%§W.\n"
  INF_FIRE_INCREASE: "Fogo da Infantaria: §G+$VALUE$§W\n"
  CAV_FIRE_INCREASE: "Fogo da Cavalaria: §G+$VALUE$§W\n"
