@@ -32,7 +32,7 @@
  TRADE_NODE_LOCATION_NOT_YET_DISCOVERED: "A localização do nó comercial ainda não foi descoberta."
  TRADE_MULTI_EXPLA: "E multiplicado por §Y$MUL$§! devido ao $VAL$ modificador de Poder Comercial neste node."
  TRADE_POWER_CAPITAL: "Capital na área: $VAL$"
- TRADE_POWER_TAKE: "Os mercadores de §Y$COUNTRY$§W coletam §Y$VAL$§W¤ deste nó comercial."
+ TRADE_POWER_TAKE: "Os mercadores de §Y$COUNTRY$§W coletaram §Y$VAL$§W¤ a partir deste nó comercial."
  TRADE_POWER_PIRATES_TAKE: "§Y$COUNTRY$§W coleta §Y$VAL$§W¤ deste nó comercial."
  TRADE_POWER_TAKE_STATE: "Fora isso, eles conseguem criar uma renda de §Y$VALOTHER$§W¤ para o estado."
  TRADE_POWER_PUSH: "§Y$COUNTRY$§W esta usando seu Poder Comercial para transportar §Y$VAL$§W¤ para frente."
