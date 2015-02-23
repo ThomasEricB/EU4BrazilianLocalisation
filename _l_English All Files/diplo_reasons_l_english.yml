@@ -245,5 +245,5 @@ l_english:
  DIPLO_DIP_POWER_COST_ABOVE: "$WHO$ tem um custo poder diplomático acima de $VAL|Y$: "
  DIPLO_NO_ALLIANCE_NO_GUARANTEE: "$COUNTRY01$ não é aliado ou garantindo de $COUNTRY02$: "
  DIPLO_ALLIANCE: "$COUNTRY01$ é aliado de $COUNTRY02$: "
- DIPLO_MULTI_WARS: "Would be called into multiple wars: "
- DIPLO_TOO_SMALL: "Not enough provinces: "
+ DIPLO_MULTI_WARS: "Será chamado para muitas guerras: "
+ DIPLO_TOO_SMALL: "Não a províncias suficientes: "
