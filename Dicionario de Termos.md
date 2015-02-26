@@ -16,3 +16,6 @@ Merchant or Merchantman = Mercadores
 The Holy Roman Empire = O Sacro Imperio Romano
 Trade Node = Ponto de Troca
 Ruler = Governante
+Native Uprising = Insurreição Nativa
+Overview = Panorama
+Tech (ou Technology) Group = Grupo Tecnologico
