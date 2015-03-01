@@ -103,7 +103,7 @@
  BECOME: "será"
  NOLONGER: "não será mais"
  PROV_MANPOWER: "$DIRECTION$ $VALUE$ de manpower em $WHERE$.\n"
- DISCOVER: "Discover §Y$WHERE$§W.\n"
+ DISCOVER: "Descubra §Y$WHERE$§W.\n"
  ADD_BUILDING: "Ganhe §Y$NAME$§W em §Y$WHERE$§W.\n"
  REM_BUILDING: "Perca §R$NAME$§W em §Y$WHERE$§W.\n"
  GOODS_CHANGE: "§Y$NAME$§W será agora produzido em  §Y$WHERE$§W.\n"
