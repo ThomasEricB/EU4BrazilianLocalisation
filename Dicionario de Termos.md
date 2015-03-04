@@ -23,3 +23,5 @@ Retreating = Recuando
 Merge = Misturar (se for uma referencia direta ao exército ou aos comandos do jogo) / Fundir
 Disband = Debandar
 Trade Goods = Produtos de Troca / Especiarias (se for no caso de eventos)
+Warned = Advertido
+Warning = Advertindo
