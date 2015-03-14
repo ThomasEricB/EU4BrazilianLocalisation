@@ -26,3 +26,4 @@ Trade Goods = Produtos de Troca / Especiarias (se for no caso de eventos)
 Warned = Advertido
 Warning = Advertindo
 Sire = Senhor
+Efficiency = Eficácia 
